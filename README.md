@@ -13,6 +13,6 @@ A terminal python game
 - The first player to reach 100 is the winner.
 
 ## Play Now on web
-[Click me🎲🐍](https://replit.com/@KrishnanandA/Snake-and-Ladder?v=1)
+[![Snake and Ladder Image](https://github.com/krishnanand654/Snake-and-Ladder/blob/main/cover.png)](https://replit.com/@KrishnanandA/Snake-and-Ladder?v=1)
 
-![Snake and Ladder Image](https://github.com/krishnanand654/Snake-and-Ladder/blob/main/cover.png)
+
