@@ -1,5 +1,5 @@
 # Snake-and-Ladder
-A non UI python game
+A terminal python game
 
 ## Rules
 
@@ -13,4 +13,4 @@ A non UI python game
 - The first player to reach 100 is the winner.
 
 ## Play Now on web
-[Click me🎲🐍](#)
+[Click me🎲🐍](https://replit.com/@KrishnanandA/Snake-and-Ladder?v=1)
