@@ -14,3 +14,5 @@ A terminal python game
 
 ## Play Now on web
 [Click me🎲🐍](https://replit.com/@KrishnanandA/Snake-and-Ladder?v=1)
+
+![Snake and Ladder Image](https://github.com/krishnanand654/Snake-and-Ladder/blob/main/cover.png)
