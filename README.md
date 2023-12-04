@@ -12,7 +12,7 @@ A terminal python game
 - Press `e` to exit the game after victory.
 - The first player to reach 100 is the winner.
 
-## Play Now on web
+## Play now on web
 [![Snake and Ladder Image](https://github.com/krishnanand654/Snake-and-Ladder/blob/main/cover.png)](https://replit.com/@KrishnanandA/Snake-and-Ladder?v=1)
 
 
